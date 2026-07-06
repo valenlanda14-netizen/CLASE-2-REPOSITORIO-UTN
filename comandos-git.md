@@ -7,3 +7,4 @@ git branch -M main renombrar rama maestra a main
 git rm --cached <archivo> eliminar un archivo (transformarlo en untrackeable)
 git remote -v seguido de git push -u origin main
 git push guarda todo a lgi1
+CONTROL + S guardo cambios ANTES DE GIT ADD Y antes de commit. y antes de push.
