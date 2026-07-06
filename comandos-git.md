@@ -6,4 +6,4 @@ git log ver historial de commits
 git branch -M main renombrar rama maestra a main
 git rm --cached <archivo> eliminar un archivo (transformarlo en untrackeable)
 git remote -v seguido de git push -u origin main
-git push guarda todo a lgit
+git push guarda todo a lgi1
